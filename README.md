@@ -1,0 +1,2 @@
+# EQSolver
+Basic Equation Solver
